@@ -12,7 +12,7 @@ body {
 /* Navbar Styles */
 .navbar {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-between !important;
   align-items: center;
   padding: 1rem;
   background-color: #333;
